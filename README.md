@@ -9,7 +9,7 @@
 
 ### Live DEMO
 
-- go to this [link]([https://t.me/disc3110_bot](https://disc3110.github.io/etch-a-sketch/)) 
+- go to this [https://t.me/disc3110_bot](https://disc3110.github.io/etch-a-sketch/)
 
 
 
